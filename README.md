@@ -51,7 +51,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mari-galvao/mari-galvao/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mari-galvao/mari-galvao/output/snake.svg" alt="snake.yml" />
 
 ###
 
