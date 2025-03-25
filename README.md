@@ -1,4 +1,4 @@
-<p align="left">Olá, sou a Maria</p>
+<h1 align="left">Olá, sou a Maria</h1>
 
 ###
 
